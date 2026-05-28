@@ -35,6 +35,9 @@ Your use or deployment of this project shall constitute your acceptance of the a
 - 交流Q群：1020585041 164930465
 
 ## Example:
+windows本地工具
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/gui_exe.png "鸭子图媒体保护工具")
+
 隐藏保护图片和视频工作流
 ![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_img.png "鸭子图媒体保护工具")
 ![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_video.png "鸭子图媒体保护工具")

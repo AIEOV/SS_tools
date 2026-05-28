@@ -27,6 +27,9 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 - Discussion QQ Group: 1020585041 164930465
 
 ## Example:
+windows tool
+![Media Protection Tool Demo](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/gui_exe.png "Duck Image Media Protection Tool")
+
 Workflow for hiding and protecting images and videos
 ![Media Protection Tool Demo](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_img.png "Duck Image Media Protection Tool")
 ![Media Protection Tool Demo](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_video.png "Duck Image Media Protection Tool")
