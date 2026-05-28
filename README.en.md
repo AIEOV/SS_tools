@@ -6,9 +6,11 @@
 # SSTool Super-SecureMediaProtection Media Content Protection V1.2
 
 Disclaimer:
-The original intention of this project is to provide an interesting file packaging method, and no commercial use has been considered.
-This project is entirely a public welfare project and promises not to charge in any form or charge in a disguised form.
-The developer shall not be liable for any losses, liabilities, or legal risks arising from the use of this project; all the above shall be borne by the user. Your use or deployment of this project shall be deemed as your consent.
+This project is originally designed to offer an interesting file packaging solution, with core functions identical to mainstream compression tools such as ZIP and RAR. All steganography and encryption algorithms are open-sourced.
+This is a completely non-profit project, intended solely for personal learning, academic research, technical demonstration and personal data privacy protection.
+It is prohibited to use this technology for any activities that violate local laws and regulations, or to infringe upon others' data, copyright and other legitimate rights and interests.
+The developer shall not be held liable for any losses, liabilities or legal risks arising from the use of this project, which shall be borne entirely by the user.
+Your use or deployment of this project constitutes acceptance of the above terms.
 
 ![Media Protection Tool Demo](https://github.com/copyangle/SS_tools/blob/main/test.png "Duck Image Media Protection Tool")
 
