@@ -20,7 +20,7 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 - Provide local tools for macOS
 - Duck Image Local UI Decoder Lite V1.0: 鸭鸭图本地UI解码工具精简版V1.0.rar
 - Duck Browser Extension：http://duckp.airush.top/
-(To prevent abuse of the technology in violation of laws and regulations, this plugin is prohibited for use in Chinese mainland and Hong Kong.)
+
 
 ## Related Links:
 

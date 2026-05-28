@@ -27,8 +27,8 @@ Your use or deployment of this project shall constitute your acceptance of the a
 - 压缩模式3档可选
 - 提供macOS本地工具
 - 提供windows本地窗口界面工具
-- 小黄鸭浏览器插件：http://duckp.airush.top/
-（为防止技术被滥用违反法律法规，中国大陆及香港地区不支持使用此浏览器插件）
+- 鸭鸭浏览器插件：http://duckp.airush.top/
+
 
 ## 相关链接：
 
