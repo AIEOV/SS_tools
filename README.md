@@ -22,7 +22,7 @@ Your use or deployment of this project shall constitute your acceptance of the a
 ## 主要功能和特点：
 - 媒体内容保护：将图片/视频/文本内容隐藏在卡通鸭子图中，可选密码保护
 - 媒体内容提取：从鸭子图中提取原始图片/视频/文本数据
-- 提供windows本地窗口界面工具
+- 提供windows本地窗口exe工具
 - 提供以上功能的本地exe命令行工具，支持本地打包、提取
 - 提供以上功能的ConfyUI工作流节点
 - 打包、提取速度极快
